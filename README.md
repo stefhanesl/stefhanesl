@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+###########################<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center">Hi, I'm Stefhane Salguero</h1>
 <h3 align="center">I am a self-taught, dedicated and reliable Frontend Developer and Data Analyst who excels at adapting to changing project needs.</h3>
 
