@@ -12,7 +12,7 @@
 -  🚀   Mis dos pasiones son el desarrollo web y el análisis de datos.
 -  💻   Disfruto aprendiendo cosas nuevas y mejorando mis conocimientos.
 -  🇺🇸    Estoy aprendiendo inglés.
--  ☕   Yo soy una fan del café.
+-  ☕   Soy una fan del café.
 
 
 <br>
