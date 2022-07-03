@@ -1,6 +1,8 @@
+<div align="center">
 <h1 align="center">Hi, I'm Stefhane Salguero</h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h3 align="center">I am a self-taught, dedicated and reliable Frontend Developer and Data Analyst who excels at adapting to changing project needs.</h3>
-
+</div>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/stefhanesl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/stefhanesl" height="30" width="40" /></a>
