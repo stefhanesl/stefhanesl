@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefhane Salguero</h1>
-<h3 align="center">Soy una Desarrolladora Frontend y Analista de Datos autodidacta, dedicada y confiable que se destaca en adaptarse a las necesidades cambiantes de los proyectos.</h3>
+<h3 align="center">I am a self-taught, dedicated and reliable Frontend Developer and Data Analyst who excels at adapting to changing project needs.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
