@@ -4,7 +4,7 @@
 </div>
  
 <div>
-<img align="right" alt="Developer Proismailshah" src="code.gif" width="300" height="220" />
+<img align="right" alt="Developer Proismailshah" src="code.gif" width="500" height="320" />
 <h3 align="left">I am a self-taught, dedicated and reliable Frontend Developer and Data Analyst who excels at adapting to changing project needs.</h3>
 </div>
 
